@@ -1,6 +1,7 @@
-// App.js
 import React, { useState } from 'react';
 import Modal from './pages/Modal';
+
+
 
 const App = () => {
   const [isModalOpen, setIsModalOpen] = useState(false);
